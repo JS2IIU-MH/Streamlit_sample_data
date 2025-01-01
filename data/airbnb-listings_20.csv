@@ -1,0 +1,21 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365
+2539,Clean & quiet apt home by the park,2787,John,Brooklyn,Kensington,40.64749,-73.97237,Private room,149,1,9,2018-10-19,0.21,6,365
+2595,Skylit Midtown Castle,2845,Jennifer,Manhattan,Midtown,40.75362,-73.98377,Entire home/apt,225,1,45,2019-05-21,0.38,2,355
+3647,THE VILLAGE OF HARLEM....NEW YORK !,4632,Elisabeth,Manhattan,Harlem,40.80902,-73.9419,Private room,150,3,0,,,1,365
+3648,THE VILLAGE OF HARLEM....NEW YORK !,2845,Jennifer,Manhattan,Harlem,40.66286793785,-73.94594296913351,Entire home/apt,229,3,44,2018-10-19,0.18,4,355
+3649,THE VILLAGE OF HARLEM....NEW YORK !,4632,Elisabeth,Brooklyn,Kensington,40.79204443800909,-73.96230608991448,Private room,136,3,1,2019-05-21,1.69,3,364
+3650,Skylit Midtown Castle,4635,John,Manhattan,Kensington,40.79188675216319,-73.96435020361797,Entire home/apt,169,2,37,2019-05-21,2.76,4,356
+3651,Skylit Midtown Castle,2845,Jennifer,Manhattan,Midtown,40.70054703142801,-73.9422225473346,Entire home/apt,205,1,39,2018-10-19,4.92,4,364
+3652,Clean & quiet apt home by the park,2845,Jennifer,Manhattan,Harlem,40.6475240160024,-73.95397793065165,Entire home/apt,174,2,11,2019-05-21,0.06,3,359
+3653,Skylit Midtown Castle,2845,Jennifer,Brooklyn,Midtown,40.776069401014155,-73.9486814145859,Entire home/apt,136,1,7,2019-05-21,0.4,4,362
+3654,THE VILLAGE OF HARLEM....NEW YORK !,4632,Elisabeth,Manhattan,Harlem,40.64953753863734,-73.95143720689357,Private room,193,1,41,2018-10-19,3.6,1,358
+3655,Clean & quiet apt home by the park,2787,John,Brooklyn,Midtown,40.66661791369577,-73.96964857562837,Private room,79,3,39,2019-05-21,4.66,4,355
+3656,Skylit Midtown Castle,2787,John,Brooklyn,Harlem,40.68840548572599,-73.9526112874958,Private room,197,3,44,2019-05-21,4.21,1,362
+3657,Skylit Midtown Castle,2845,Jennifer,Manhattan,Midtown,40.66415741099996,-73.98032927669192,Private room,196,1,25,2019-05-21,0.68,6,356
+3658,THE VILLAGE OF HARLEM....NEW YORK !,4632,Elisabeth,Manhattan,Midtown,40.71224466854271,-73.95392241377425,Entire home/apt,204,2,26,2018-10-19,0.2,6,361
+3659,Skylit Midtown Castle,4632,Elisabeth,Brooklyn,Midtown,40.66064383256893,-73.9451940925644,Entire home/apt,167,2,25,2018-10-19,3.55,4,356
+3660,THE VILLAGE OF HARLEM....NEW YORK !,4632,Elisabeth,Manhattan,Midtown,40.6977872346538,-73.95798144642626,Entire home/apt,193,1,13,2019-05-21,1.72,5,361
+3661,Skylit Midtown Castle,4632,Elisabeth,Manhattan,Harlem,40.77388546063611,-73.96109428816294,Private room,136,2,40,2019-05-21,2.81,3,362
+3662,Clean & quiet apt home by the park,4632,Elisabeth,Brooklyn,Midtown,40.69006412676743,-73.94386101642435,Private room,155,2,34,2019-05-21,2.94,3,359
+3663,Skylit Midtown Castle,4632,Elisabeth,Manhattan,Kensington,40.73367342576058,-73.9723094898626,Private room,206,2,34,2018-10-19,4.41,3,360
+3664,Clean & quiet apt home by the park,2787,John,Manhattan,Harlem,40.73241539578573,-73.9643884811064,Private room,176,3,20,2018-10-19,4.7,2,364
